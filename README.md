@@ -72,8 +72,8 @@ The `AuthContext` provides:
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
-   cd next-app-scaffold
+   git clone https://github.com/Cstannahill/next-auth-scaffold.git
+   cd next-auth-scaffold
    ```
 
 2. **Install dependencies**
